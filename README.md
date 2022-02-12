@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @reaperizy
-- 👀 I’m interested in Multi-Platform Apps
-- 🌱 I’m currently learning Multi-Platform Apps
-- 💞️ I’m looking to collaborate on My GitHub
-- 📫 How to reach me on ig : Reaperizy
+# Halo semua! 
 
-<!---
-reaperizy/reaperizy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Wadi Wahyudin**.\
+
+Saya seorang **Mahasiswa** di [Universitas Gunadarma](https://www.gunadarma.ac.id/).\
+
+Saya memiliki minat di bidang Teknik Informatika dan menyelesaikan beberapa Bootcamp salah satunya di [PROGATE](https://progate.com/dashboard).\
+
+Saat ini Saya sedang mengikuti program Studi Independent Bersertifikat di [Dicoding](https://www.dicoding.com/dashboard) dari program Kampus Merdeka.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](linkedin.com/in/wadi-wahyudin-39579b15b) ku ya.
