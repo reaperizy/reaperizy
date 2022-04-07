@@ -8,7 +8,16 @@ Saya memiliki minat di bidang Teknik Informatika dan menyelesaikan beberapa Boot
 
 Saat ini Saya sedang mengikuti program Studi Independent Bersertifikat di [Dicoding](https://www.dicoding.com/dashboard) pada program Kampus Merdeka.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/wadi-wahyudin-39579b15b/) ku ya.
+
+### 🔍 You Can Find Me at 
+<p> 
+  <a href="https://www.linkedin.com/in/wadi-wahyudin-39579b15b/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/reaperizy/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
 
 
 <p align="left">
