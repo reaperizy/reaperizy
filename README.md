@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Wadi Wahyudin**.
 
-Saya seorang **Mahasiswa** di [Universitas Gunadarma](https://www.gunadarma.ac.id/).
+Saya seorang **Lulusan** di [Universitas Gunadarma](https://www.gunadarma.ac.id/).
 
 Saya memiliki minat di bidang Teknik Informatika dan menyelesaikan beberapa Bootcamp salah satunya di [PROGATE](https://progate.com/dashboard).
 
