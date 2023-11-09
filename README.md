@@ -2,11 +2,11 @@
 
 Perkenalkan nama saya **Wadi Wahyudin**.
 
-Saya seorang **Lulusan** di [Universitas Gunadarma](https://www.gunadarma.ac.id/).
+Saya seorang Sarjana Informatika **Lulusan** [Universitas Gunadarma](https://www.gunadarma.ac.id/).
 
 Saya memiliki minat di bidang Teknik Informatika dan menyelesaikan beberapa Bootcamp salah satunya di [PROGATE](https://progate.com/dashboard).
 
-Saya adalah lulusan program Studi Independent Bersertifikat di [Dicoding](https://www.dicoding.com/dashboard) pada program Kampus Merdeka.
+Saya juga adalah lulusan program Studi Independent Bersertifikat di [Dicoding](https://www.dicoding.com/dashboard) pada program Kampus Merdeka.
 
 
 ### 🔍 You Can Find Me at 
